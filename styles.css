@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+h1 {
+    background-color: greenyellow;
+    text-align: center;
+}
+
+ul {
+    background-color: yellow;
+    text-align: center ;
+}
+
+* {
+    outline: 2px solid red;
+}
